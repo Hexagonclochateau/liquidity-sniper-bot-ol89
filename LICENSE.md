@@ -1,4 +1,4 @@
-# 
+# AI-powered liquidity sniper bot | take-profit + slippage-control is the best liquidity sniper bot, featuring take-profit and slippage-control. Fast, smart, and optimized for MEV
 
 
 
